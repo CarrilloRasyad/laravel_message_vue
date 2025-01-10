@@ -1,4 +1,4 @@
-### Premium Partners
+### Server Running in Apps
 
 - **php artisan serve**
 - **php artisan reverb:start --debug**
